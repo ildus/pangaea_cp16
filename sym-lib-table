@@ -2,4 +2,5 @@
   (lib (name lm4871)(type Legacy)(uri /home/ildus/kicad/kicad-library-custom/lm4871.lib)(options "")(descr ""))
   (lib (name sw-3pdt)(type Legacy)(uri /home/ildus/kicad/kicad-library-custom/sw-3pdt.lib)(options "")(descr ""))
   (lib (name tps61041)(type Legacy)(uri /home/ildus/kicad/kicad-library-custom/tps61041.lib)(options "")(descr ""))
+  (lib (name Connector_Specialized)(type Legacy)(uri /home/ildus/kicad/kicad-library-custom/Connector_Specialized.lib)(options "")(descr ""))
 )
