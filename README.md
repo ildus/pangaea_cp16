@@ -26,6 +26,10 @@ one in the right moment. You can load IRs in the CP-16 memory and control their 
 
 ![pangaea](http://amtelectronics.com/new/wp-content/uploads/2016/12/News-271216-890x395_c.jpg)
 
+## Important note
+
+As you can see on the image above, the pin header soldered on the side opposite to side with capacitor, that's not optimal and takes twice as much height. The PCB is designed to use with CP16 where pin header is soldered on the side of capacitor so the whole pcb can be put to usual aluminum case.
+
 ## PCB
 
 ![up](https://umarta.com/scr/yvgzhgdfaopdqfjtfijc.png)
